@@ -9,5 +9,6 @@ git remote set-url origin [ur]
 git remote -v
 git push -u origin [branch name]
 git branch
-git branch -M [new branch name]
+git branch -M [new name of the branch]
 git clone [http link of repository]
+git branch [new branch name]
