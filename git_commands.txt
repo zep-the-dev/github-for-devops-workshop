@@ -1,6 +1,6 @@
 git init
 git status
 git add [file name] OR .
-git commit 
+git commit -m "your massage"
 git restore --staged
 git rm --cached
