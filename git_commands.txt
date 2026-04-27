@@ -4,3 +4,10 @@ git add [file name] OR .
 git commit -m "your massage"
 git restore --staged
 git rm --cached
+git remote add origin [link of the repo]
+git remote set-url origin [ur]
+git remote -v
+git push -u origin [branch name]
+git branch
+git branch -M [new branch name]
+git clone [http link of repository]
